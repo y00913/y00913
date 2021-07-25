@@ -27,5 +27,6 @@ Here are some ideas to get you started:
 <br> </br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=y00913&show_icons=true&theme=dracula)
 [![trophy](https://github-profile-trophy.vercel.app/?username=y00913&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y00913&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
