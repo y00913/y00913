@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y00913&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 ![1](https://img.shields.io/badge/-simple-critical) ![2](https://img.shields.io/badge/-is-yellow) ![3](https://img.shields.io/badge/-best-orange)
 <br> </br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=y00913&show_icons=true&theme=dracula)
