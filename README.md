@@ -2,7 +2,7 @@
 
 # Hi Hello 👋
 
-I'm Ahn YuTae.
+I'm YuTae.
 <br>
 I'll be a Professional Developer.
 
