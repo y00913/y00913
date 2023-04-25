@@ -2,7 +2,7 @@
 
 # Hi Hello 👋
 
-I'm Yuae.
+I'm Yutae.
 <br>
 
   
