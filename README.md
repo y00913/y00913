@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br> </br>
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=y00913&show_icons=true&theme=dracula)
 ![trophy](https://github-profile-trophy.vercel.app/?username=y00913&row=1&margin-h=15&theme=dracula)
 
