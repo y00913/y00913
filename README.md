@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![1](https://img.shields.io/badge/-simple-critical) ![2](https://img.shields.io/badge/-is-yellow) ![3](https://img.shields.io/badge/-best-orange)
 <br> </br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=y00913&show_icons=true&theme=dracula)
 ![trophy](https://github-profile-trophy.vercel.app/?username=y00913&row=1&margin-h=15&theme=dracula)
