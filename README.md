@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=y00913&show_icons=true&theme=dracula)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=y00913&show_icons=true&theme=dracula) -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ayt0913)](https://solved.ac/ayt0913)
-![trophy](https://github-profile-trophy.vercel.app/?username=y00913&row=1&margin-h=15&theme=dracula)
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=y00913&row=1&margin-h=15&theme=dracula) -->
 
 </div>
