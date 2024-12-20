@@ -25,11 +25,19 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ayt0913)](https://solved.ac/ayt0913)
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=y00913&row=1&margin-h=15&theme=dracula) -->
 
-<a href="https://github.com/devxb/gitanimals">
+<!-- <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/y00913?pet-id=643664451863589436"
     width="600"
     height="120"
+  />
+</a> -->
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/farms/y00913"
+    width="600"
+    height="300"
   />
 </a>
 
